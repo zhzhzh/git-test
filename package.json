@@ -3,11 +3,6 @@
   "version": "1.0.0",
   "description": "This is the Git and Node basic learning project",
   "main": "index.html",
-  "dependencies": {
-    "lite-server": "^2.4.0",
-    "npm": "^6.1.0"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zhzhzh/git-test/issues"
   },
-  "homepage": "https://github.com/zhzhzh/git-test#readme"
+  "homepage": "https://github.com/zhzhzh/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
 }
